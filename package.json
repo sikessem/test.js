@@ -1,0 +1,25 @@
+{
+    "name": "sikessem-test",
+    "version": "1.0.1",
+    "main": "boot.js",
+    "author": "SIGUI Kessé Emmanuel <sikessem@omninf.com>",
+    "license": "Apache-2.0",
+    "scripts": {
+        "boot": "nodemon boot"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/SIKessEm/test.js.git"
+    },
+    "keywords": [
+        "sikessem",
+        "test"
+    ]
+    "dependencies": {
+        "nodemon": "^2.0.9"
+    },
+    "bugs": {
+        "url": "https://github.com/SIKessEm/test.js/issues"
+    },
+    "homepage": "https://github.com/SIKessEm/test.js.#readme"
+}
