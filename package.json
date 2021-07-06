@@ -14,7 +14,7 @@
     "keywords": [
         "sikessem",
         "test"
-    ]
+    ],
     "dependencies": {
         "nodemon": "^2.0.9"
     },
